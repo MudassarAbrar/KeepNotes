@@ -1,0 +1,24 @@
+{
+  "name": "@mudassirabrar/keepnotes",
+  "version": "1.0.1",
+  "description": "A simple terminal-based todo & note-keeping CLI app",
+  "main": "cli.js",
+  "bin": {
+    "keepnotes": "cli.js"
+  },
+  "scripts": {
+    "start": "node cli.js"
+  },
+  "keywords": [
+    "cli",
+    "todo",
+    "notes",
+    "terminal"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "commander": "^11.1.0"
+  }
+}
