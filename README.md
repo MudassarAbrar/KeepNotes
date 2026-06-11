@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=keepnotes&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=A%20fast%2C%20simple%20terminal-based%20todo%20%26%20note-keeping%20CLI&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=200&amp;section=header&amp;text=keepnotes&amp;fontSize=60&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=35&amp;desc=A%20fast%2C%20simple%20terminal-based%20todo%20%26%20note-keeping%20CLI&amp;descAlignY=55&amp;descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=No+browser%2C+no+GUI+%E2%80%94+just+your+terminal;Add%2C+track+%26+manage+tasks+instantly;Local-first.+Your+data+never+leaves+your+machine;Built+with+Node.js" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=22&amp;duration=3000&amp;pause=1000&amp;color=A78BFA&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=No+browser%2C+no+GUI+%E2%80%94+just+your+terminal;Add%2C+track+%26+manage+tasks+instantly;Local-first.+Your+data+never+leaves+your+machine;Built+with+Node.js" alt="Typing SVG" />
 
 <br/>
 
